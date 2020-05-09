@@ -1,3 +1,4 @@
+![Result](result.png)
 # Project Description
 > An implementation of a star algorithm in python3 to find the shortest path between two given locations.
 
